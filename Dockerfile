@@ -1,4 +1,4 @@
-# Author Sho Inagaki
+# Author Sho Inagaki sho-i98
 FROM quay.io/jupyter/minimal-notebook:2023-11-19
 
 RUN conda install -y pandas=2.1.2
